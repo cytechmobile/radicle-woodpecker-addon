@@ -23,7 +23,7 @@ This will generate the executable `/tmp/bin/radicle-woodpecker-addon` which then
 
 Woodpecker CI and Radicle Addon requiro the following to be set up:
 
-* [Radicle node](https://radicle.xyz/) (v1.0.0 or newer)
+* [Radicle node](https://radicle.xyz/) (v1.2.0 or newer)
 * [RIT's Radicle http API rad:z3pDipgU1YJRBPfZzNsW3s31dgnAR](https://explorer.radicle.gr/nodes/seed.radicle.gr/rad:z3pDipgU1YJRBPfZzNsW3s31dgnAR) (v1.0.0 or newer)
 * [Radicle CI Broker rad:zwTxygwuz5LDGBq255RA2CbNGrz8](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:zwTxygwuz5LDGBq255RA2CbNGrz8) (v0.11.0 or newer)
 * [Radicle Webhooks Adapter rad:z2hCUNw2T1qU31LyGy7VPEiS7BkxW](https://app.radicle.xyz/nodes/seed.radicle.garden/rad:z2hCUNw2T1qU31LyGy7VPEiS7BkxW) (v0.7.0 or newer)
